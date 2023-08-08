@@ -391,7 +391,7 @@
 .tf-carousel-box .owl-dots .owl-dot {
     width: 10px;
     height: 10px;
-    background: #0080f0;
+    background: #3e227b;
     display: inline-block;
     margin: 0 5px;
     -webkit-transition: all 0.3s ease-in-out;
@@ -401,10 +401,16 @@
     transition: all 0.3s ease-in-out;
 }
 
-.tf-carousel-box.has-carousel.no-bullets .owl-dots,
+.tf-carousel-box .owl-dots .active{
+    background: #8e5af4;
+    width: 12px;
+    height: 12px;
+}
+
+/* .tf-carousel-box.has-carousel.no-bullets .owl-dots,
 .tf-carousel-box.no-bullets .owl-dots {
     display: none;
-}
+} */
 
 .tf-carousel-box.has-carousel.has-bullets .owl-dots {
     display: block;

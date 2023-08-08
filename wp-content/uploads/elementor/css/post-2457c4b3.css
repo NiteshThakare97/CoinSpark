@@ -948,6 +948,12 @@
     .elementor-2379 .elementor-element.elementor-element-7cc9a8ca>.elementor-element-populated{
         padding: 12px 9px 0px 0px !important;
     }
+    #elementor-element-8b49e1b-contsec1{
+        top: 50px !important;
+    }
+    #elementor-element-3732a82-contform{
+        top: 522px !important;
+    }
 }
 
 /* My Css  */
@@ -955,6 +961,21 @@
     position: absolute;
     top: 40%;
     left: 16%;
+}
+
+#elementor-element-8b49e1b-contsec1{
+    position: absolute;
+    top: 77px;
+}
+#elementor-element-3732a82-contform{
+    position: absolute;
+    top: 380px;
+}
+.elementor-element-3732a82{
+    padding: 0px 15px;
+}
+.elementor-element-8b49e1b {
+    padding: 0px 7px;
 }
 
 /* Footer  */
@@ -979,11 +1000,25 @@
 
     .elementor-2457 .elementor-element.elementor-element-8b49e1b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
     .elementor-2457 .elementor-element.elementor-element-8b49e1b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-        height: 101px;
+        height: 83px;
+    background-position: right;
+    }
+    .elementor-2457 .elementor-element.elementor-element-8b49e1b>.elementor-element-populated, .elementor-2457 .elementor-element.elementor-element-8b49e1b>.elementor-element-populated>.elementor-background-overlay, .elementor-2457 .elementor-element.elementor-element-8b49e1b>.elementor-background-slideshow{
+        border-radius: 14px;
     }
 
     #worldmap {
         top: 30%;
         left: 1%;
     }
+    .elementor-element-3732a82, .elementor-element-8b49e1b{
+        padding: 0px;
+    }
+    #elementor-element-8b49e1b-contsec1{
+        top: 30px !important;
+    }
+    #elementor-element-3732a82-contform{
+        top: 921px !important;
+    }
+
 }

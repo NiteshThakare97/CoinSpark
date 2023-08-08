@@ -1296,6 +1296,11 @@ body.rtl .elementor-2442 .elementor-element.elementor-element-377f14d {
 
 /* Footer  */
 
+.elementor-element-d96326b img:hover {
+    transition: transform .2s;
+    transform: scale(.85)
+}
+
 @media only screen and (min-width: 1600px) {
     .elementor-element-e8e11e4{
         height: 512px !important;
@@ -1311,4 +1316,5 @@ body.rtl .elementor-2442 .elementor-element.elementor-element-377f14d {
     .elementor-element-924e104 .elementor-container{
         flex-direction: column-reverse;
     }
+    
 }

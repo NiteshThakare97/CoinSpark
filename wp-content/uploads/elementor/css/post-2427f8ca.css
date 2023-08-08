@@ -2872,39 +2872,47 @@ body.rtl .elementor-2427 .elementor-element.elementor-element-459d7b4 {
 
 
 /* About Page Css */
-#abtsec4{
+#abtsec4 {
     background-image: url(../../../images/About/04/Section04BG.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
-#abtsec3{
+
+#abtsec3 {
     background-image: url(../../../images/About/03/Section03BG.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
-#abtsec4 h5{
+
+#abtsec4 h5 {
     color: #000;
 }
-.elementor-element-810212b h4{
+
+.elementor-element-810212b h4 {
     color: #48285a;
     font-size: 20px !important;
     font-weight: 600 !important;
     margin-bottom: 0px;
 }
+
 .elementor-element-3944a73 .elementor-container {
     align-items: center;
 }
-.elementor-element-b633a2c p{
+
+.elementor-element-b633a2c p {
     color: #000;
 }
-.elementor-element-b633a2c h5{
+
+.elementor-element-b633a2c h5 {
     color: #423e3f;
     border-left: 3px solid #ffc94b;
     padding-left: 15px;
 }
+
 #abtsec2 {
     background-color: #fff;
 }
+
 #elementor-element-b2cacad-bg {
     position: absolute;
     height: 22px;
@@ -2912,77 +2920,101 @@ body.rtl .elementor-2427 .elementor-element.elementor-element-459d7b4 {
     width: 100%;
     top: 98px;
 }
-.elementor-element-b2cacad h5{
+
+.elementor-element-b2cacad h5 {
     color: #000000;
     width: fit-content;
     background: #fff;
     margin: auto;
     padding: 0px 20px;
 }
-.elementor-element-b2cacad h2{
+
+.elementor-element-b2cacad h2 {
     text-transform: uppercase;
     color: #47295d;
     margin-bottom: 5px;
 }
-#texture-left{
+
+#texture-left {
     position: absolute;
     top: 550px;
 }
-#texture-right{
+
+#texture-right {
     position: absolute;
     top: 510px;
     right: 0%;
 }
-.elementor-196 .elementor-element.elementor-element-5d9dbde{
+
+.elementor-196 .elementor-element.elementor-element-5d9dbde {
     padding-bottom: 0px !important;
 }
-.elementor-196 .elementor-element.elementor-element-4786e378>.elementor-widget-container{
-    padding-top: 5px !important;
+
+.elementor-196 .elementor-element.elementor-element-4786e378>.elementor-widget-container {
+    padding-top: 0px !important;
+}
+.elementor-element-3ab0950 img {
+    transition: transform 0.2s;
+    transform-style: preserve-3d;
+}
+.elementor-element-3ab0950 img:hover {
+    transform: rotateY(180deg);
 }
 
-@media only screen and (min-width: 1600px){
-    .elementor-element-07c284d{
+@media only screen and (min-width: 1600px) {
+    .elementor-element-07c284d {
         height: 511px !important;
     }
 }
-@media only screen and (min-width: 1350px) and (max-width: 1500px){
-    .elementor-element-07c284d{
+
+@media only screen and (min-width: 1350px) and (max-width: 1500px) {
+    .elementor-element-07c284d {
         height: 437px !important;
     }
 }
-@media only screen and (min-width: 600px) and (max-width: 1000px){
-    .elementor-element-07c284d{
+
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+    .elementor-element-07c284d {
         height: 233px !important;
     }
-    #elementor-element-b2cacad-bg{
+
+    #elementor-element-b2cacad-bg {
         height: 17px;
         top: 63px;
     }
-    .elementor-element-3ab0950, .elementor-element-c3fea4f {
+
+    .elementor-element-3ab0950,
+    .elementor-element-c3fea4f {
         width: 100% !important;
     }
-    .elementor-element-c3fea4f img{
+
+    .elementor-element-c3fea4f img {
         width: 50%;
         margin-top: 20px;
     }
-    .elementor-2427 .elementor-element.elementor-element-ca7478b>.elementor-widget-container{
+
+    .elementor-2427 .elementor-element.elementor-element-ca7478b>.elementor-widget-container {
         text-align: center !important;
     }
 }
 
 @media only screen and (max-width: 600px) {
-    .elementor-element-07c284d{
+    .elementor-element-07c284d {
         height: 110px !important;
     }
-    #elementor-element-b2cacad-bg{
+
+    #elementor-element-b2cacad-bg {
         height: 16px;
         top: 73px;
     }
-    .elementor-element-b2cacad h5{
+
+    .elementor-element-b2cacad h5 {
         font-size: 14px;
         padding: 0px;
     }
-    .elementor-2427 .elementor-element.elementor-element-7b0ba8c{
+
+    .elementor-2427 .elementor-element.elementor-element-7b0ba8c {
         padding: 0px 0px 20px 0px;
     }
+
 }
