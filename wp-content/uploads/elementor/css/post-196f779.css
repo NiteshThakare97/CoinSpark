@@ -65,6 +65,7 @@
 
 .elementor-196 .elementor-element.elementor-element-1c0df9db img {
     border-radius: 0px 0px 0px 0px;
+    width: 233px;
 }
 
 .elementor-196 .elementor-element.elementor-element-1c0df9db>.elementor-widget-container {
@@ -432,5 +433,11 @@ body:not(.rtl) .elementor-196 .elementor-element.elementor-element-2caedc68 .ele
 
     .elementor-196 .elementor-element.elementor-element-13f5ab50 {
         width: 50%;
+    }
+}
+
+@media only screen and (min-width: 1550px) {
+    .elementor-196 .elementor-element.elementor-element-5d9dbde{
+        padding: 55px 0px;
     }
 }
